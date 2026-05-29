@@ -1,5 +1,5 @@
 # Hey there!👋 I am Yugansh Jindal 
-🚀 **Data & Business Analyst | Data Enthusiast | Tech Explorer**
+🚀 **AI & ML Trainer | Data Scientist in Progress | Python · Scikit-learn · SQL · Power BI | M.Tech AI/ML — BITS Pilani**
 
 I am passionate about data-driven decision-making, automation, and bridging the gap between technology and business strategy. With a strong foundation in SQL, Python, Advanced Excel, Power BI, and Data Modeling, I love solving complex problems and deriving actionable insights from raw data.
 
