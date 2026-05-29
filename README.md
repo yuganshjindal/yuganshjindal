@@ -1,18 +1,27 @@
-# Hey there!👋 I am Yugansh Jindal 
-🚀 **AI & ML Trainer | Data Scientist in Progress | Python · Scikit-learn · SQL · Power BI | M.Tech AI/ML — BITS Pilani**
+# Hi, I'm Yugansh Jindal 👋
 
-I am passionate about data-driven decision-making, automation, and bridging the gap between technology and business strategy. With a strong foundation in SQL, Python, Advanced Excel, Power BI, and Data Modeling, I love solving complex problems and deriving actionable insights from raw data.
+🎓 **AI & ML Trainer | Data Science Educator | BITS Pilani M.Tech**
 
-🔍 What I Do:
-1. Data Analysis & Visualization 📊 (Transforming numbers into insights)
-2. Process Optimization ⚙️ (Reducing inefficiencies and maximizing impact)
-3. IIoT & Industrial Analytics 🏭 (Leveraging data for smarter industries)
-4. Digital Marketing Insights 📈 (Bringing strategy to numbers)
+I train students and working professionals in AI, Machine Learning, 
+and Data Analytics. Currently pursuing M.Tech in AI & ML from BITS Pilani 
+while teaching at Sharda University.
 
-💡 Fun Fact:
-When I'm not crunching numbers, you'll find me exploring AI trends, designing dashboards, playing badminton, or diving into a new tech experiment.
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL (PostgreSQL, MySQL)
+- **ML/AI:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Visualization:** Power BI, Advanced Excel, Google Sheets
+- **Tools:** Google Colab, VS Code, Streamlit, Jupyter Notebook
+- **Domains:** Machine Learning, Deep Learning, NLP, Agentic AI
 
-🎯 Currently Exploring:
-1. Machine Learning for Business Insights 🤖
-2. Big Data Analytics & Cloud Technologies ☁️
-3. Advanced Automation & Reporting ⏳
+## 🚀 Projects (In Progress)
+- 🔵 Student Performance Predictor — Random Forest + Streamlit
+- 🟢 Retail Sales Forecasting Dashboard — Prophet + Power BI
+- 🟡 Course Review Sentiment Analyser — BERT + HuggingFace
+
+## 📜 Certifications
+- Advanced Certification in Data Science & AI — IIT Roorkee
+- Certified Data Analyst — SkillOVilla
+
+## 📫 Connect With Me
+- LinkedIn: [yugansh-jindal](https://www.linkedin.com/in/yugansh-jindal-12468211a/)
+- Email: yuganshjindal35@gmail.com
